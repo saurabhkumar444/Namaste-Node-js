@@ -54,6 +54,3 @@ crypto.pbkdf2("password", "salt", 500000, 50, "sha512", () => {
 crypto.pbkdf2("password", "salt", 500000, 50, "sha512", () => {
   console.log(`Task 11 completed`);
 });
-crypto.pbkdf2("password", "salt", 500000, 50, "sha512", () => {
-  console.log(`Task 12 completed`);
-});
